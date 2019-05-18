@@ -3,9 +3,12 @@
 
 
 import os
-os.system("pip install pynput")
-os.system("py -m pip install pynput")
-os.system("sudo pip install pynput")
+try:os.system("pip install pynput")
+except:print('[*] Py not in Environment variable or OS not Windows.')
+try:os.system("py -m pip install pynput")
+except:print('[*] OS not Windows or Py in Environment Variable.')
+try:os.system("sudo pip install pynput")
+except:print('[*] OS not Linux or kill sudo')
 
 from pynput.keyboard import Key, Controller, Listener
 
