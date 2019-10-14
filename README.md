@@ -11,3 +11,8 @@ I have made three python programs that will cat like glitches if run on any PC, 
 > > pynput
 
 > > pyperclip
+
+-------------------
+I have made a little script which is related to this two. More Important is the idea by which it can be used to fraudlent a user to transfer the bitcoin in your account!
+
+-------------------
