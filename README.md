@@ -17,4 +17,4 @@ I have made a little script which is related to this two. More Important is the 
 
 -------------------
 
-[ ] Add Malware properties
+- [ ] Add Malware Behaviour
